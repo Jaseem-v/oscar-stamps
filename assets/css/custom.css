@@ -8,6 +8,10 @@
     .banner {
         padding: 0px 0 100px;
     }
+
+    .bg-shape {
+        display: none;
+    }
 }
 
 .faq-right {
